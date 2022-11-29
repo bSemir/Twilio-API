@@ -4,6 +4,15 @@ This application is meant to be used with the [ 🎥 Introduction to APIs course
 #
 You'll need to make your own Twilio account and their phone number if you want to test this out.
 #
+It's kind of RESTful:
+- Client-Server Architecture (Vue.js app is a client and every client could connect and use it, Node.js is a Server)
+- Stateless (we aren't requeiring any prior knowledge about a client)
+- Layered System (our API calls another API, client doesn't know that)
+- Cacheability (not really but we could pay attention to those headers)
+- Uniform Design (no bc we failed at the 1st subcategory of it - it has 4)
+- Code On Demand (this is optional and it means that our API returns some code to the client that is runable)
+
+#
 Live: https://humane-hyper-accordion.glitch.me
 
 ## Use this on Glitch
