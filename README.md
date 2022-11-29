@@ -1,6 +1,10 @@
 # Example Application - Complimentr
 
-This application is meant to be used with the [ 🎥 Introduction to APIs course](https://github.com/craigsdennis/intro-to-apis-course).
+This application is meant to be used with the [ 🎥 Introduction to APIs course](https://github.com/craigsdennis/intro-to-apis-course) as a part of two week online training for paid internship at **Tech387**.
+#
+You'll need to make your own Twilio account and their phone number if you want to test this out.
+#
+Live: https://humane-hyper-accordion.glitch.me
 
 ## Use this on Glitch
 
